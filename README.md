@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iComputerGeek101
+- 👋 Hi, I’m @AlexHadfield
 - 👀 I’m interested in Mobile App and Web Development
 - 🌱 I’m currently learning Swift
 
